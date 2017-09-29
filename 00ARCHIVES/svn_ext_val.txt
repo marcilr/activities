@@ -1,0 +1,28 @@
+#
+# svn_ext_val.txt
+# Created Thu Jan  9 16:10:35 AKST 2014
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+#
+# List of repo hierarchical directories to checkout under activities/
+#
+# aca/             Anchorage Convert Association
+# bicycling/       Bicycling
+# canoeing/        Canoeing
+# caving/          Caving and the underground
+# entertainment/   Entertainment
+# photography/     Photography and cameras
+# scanning/        Scanning
+# scuba/           Scuba diving
+# shaving/         Shaving gear and supplies
+#
+../../activities/aca/aca                       ./aca
+../../activities/bicycling/bicycling           ./bicycling
+../../activities/canoeing/canoeing             ./canoeing
+../../activities/caving/caving                 ./caving
+../../activities/entertainment/entertainment   ./entertainment
+../../activities/photography/photography       ./photography
+../../activities/scanning/scanning             ./scanning
+../../activities/scuba/scuba                   ./scuba
+../../activities/shaving/shaving               ./shaving
