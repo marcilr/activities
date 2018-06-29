@@ -1,0 +1,16 @@
+salmon.txt
+Created Fri Jun 29 08:20:18 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Salmon
+
+
+Salmon Species:
+o Chinook
+o Coho (silver salmon)
+o Sockeye
+o Pink (well maybe not)
+o Chum
+o Steelhead (until they reclassify as a trout again)
+
